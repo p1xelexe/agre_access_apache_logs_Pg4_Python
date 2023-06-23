@@ -1,0 +1,19 @@
+    Файл main.py:
+
+plaintext
+
+json==2.0.9
+psycopg2==2.9.1
+
+    Файл parse.py:
+
+plaintext
+
+os==2.11.0
+json==2.0.9
+
+    Файл test_view.py:
+
+plaintext
+
+PySide6==7.0.0
